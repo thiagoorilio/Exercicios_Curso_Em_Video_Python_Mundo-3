@@ -1,3 +1,3 @@
 # Exercicios_Curso_Em_Video_Python_Mundo-3
 Exercícios de python realizados na plataforma/canal CURSO EM VÍDEO, no curso de python mundo 3.
-Neste repósitório será postado algumas resoluções minhas de exercícios em python,para compartilhar com quem também está nesse processo inicial de aprendizagem a ter acesso a formas diferentes de resolução de alguns exercícios ou até mesmo ideias para que as pessoas possam praticar,o que é essencial nessa fase do aprendizado e tem me ajudado muito,espero que também possa ajudar alguém. O assunto dos exercícios são estruturas compostas (tuplas,listas,dicionários e funções).
+Neste repósitório será postado algumas resoluções minhas de exercícios em python. O assunto dos exercícios são estruturas compostas (tuplas,listas,dicionários e funções).
